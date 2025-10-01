@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Emoji Embeddings",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/lbeckman314/embeddings-experiment/refs/heads/main/vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/lbeckman314/embeddings-experiment/refs/heads/main/metadata.tsv"
+    }
+  ]
+}
